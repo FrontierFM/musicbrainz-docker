@@ -15,7 +15,7 @@ You will need a little over 20 gigs of free space to run this with replication.
 * Make sure you have installed docker and docker-compose then:
 * `git clone this-repo`
 * `cd this-repo`
-* `sudo docker-compose up -d`
+* `sudo docker-compose up -d`  (On Mac OS X you might want to run this without `sudo`).
 
 ### Create database
 Create the database, download the latest dumps and populate the database
